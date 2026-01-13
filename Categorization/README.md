@@ -18,6 +18,6 @@ This repository contains the corresponding source files and archived versions re
 
 This report was created within the ERASMUS+ project **iNUX**.
 
-![Co-funded by the European Union](../assets/images/eu-funded.jpg)
+![Co-funded by the European Union](../docs/assets/images/eu-funded.jpg)
 
 *This project is co-funded by the European Union. However, the views and opinions expressed are solely those of the author(s) and do not necessarily reflect those of the European Union or the National Agency DAAD. Neither the European Union nor the granting authority can be held responsible for them.*
