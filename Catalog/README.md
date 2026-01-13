@@ -4,7 +4,7 @@ This report documents the **iNUX Web Catalog of Interactive Digital Learning Res
 
 The catalog is implemented as a public GitHub repository with an associated GitHub Pages website. It serves as a central entry point to interactive documents developed within the iNUX project, including Streamlit applications and Jupyter Notebooks, and supports efficient discovery, navigation, and reuse of these resources.
 
-The report describes the **concept, structure, use cases, and technical realization** of the catalog. It explains how the catalog follows the iNUX categorization framework, how resources are indexed and described, and how different target groups—students, educators, and professionals—can use the catalog for self-learning, academic teaching, and continuing education.
+The report describes the **concept, structure, use cases, and technical realization** of the catalog. It explains how the catalog follows the iNUX categorization framework, how resources are indexed and described, and how different target groups like students, educators, and professionals can use the catalog for self-learning, academic teaching, and continuing education.
 
 This document represents a **static snapshot** of the catalog at the time of publication. The catalog itself is designed as a living resource that can be continuously extended and updated beyond the project duration.
 
