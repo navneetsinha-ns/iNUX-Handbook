@@ -2,7 +2,7 @@
 
 This repository hosts the **iNUX Handbook** and a set of accompanying **project reports** developed within the ERASMUS+ project *iNUX – Interactive Understanding of Groundwater Hydrology and Hydrogeology*. Together, these materials document concepts, methods, and examples for the development and use of innovative, open-source educational resources in hydrogeology and groundwater management.
 
-## Scope and Content
+### Scope and Content
 
 The repository contains:
 
@@ -10,15 +10,24 @@ The repository contains:
   A practical guide describing concepts, workflows, and technical instructions for creating and using interactive educational materials.
 
 - **Project Reports**, including:
-  - Categorization report (structure and indexing of iNUX materials)
-  - Question pool report (digital assessment questions and formats)
-  - Report on interactive materials for **basic hydrogeology**
-  - Report on interactive materials for **applied hydrogeology**
-  - Best practice examples report
+  - Report describing the iNUX Web **Catalog** of interactive documents,
+  - **Categorization** report (structure and indexing of iNUX materials),
+  - **Question** pool report (digital assessment questions and formats),
+  - Report on interactive materials for **basic hydrogeology**,
+  - Report on interactive materials for **applied hydrogeology**,
+  - **Best practice examples** report.
 
 These reports complement the handbook by providing structured overviews, methodological background, and selected examples from the iNUX ecosystem.
 
-## Educational Materials Addressed
+### Online Access
+
+The rendered and continuously updated version of the handbook and accompanying reports is available as a GitHub Pages site:
+
+👉 **https://gw-inux.github.io/iNUX-Handbook/**
+
+The content of this repository serves as the source for the online handbook and related documentation. The materials are **living documents** and may be updated over time by the iNUX team and external contributors.
+
+### Educational Materials Addressed
 
 The handbook and reports cover educational resources such as:
 
@@ -27,19 +36,11 @@ The handbook and reports cover educational resources such as:
 - Digital question pools for formative and summative assessment
 - Enhanced classical teaching materials published as open-source resources
 
-## Online Access
-
-The rendered and continuously updated version of the handbook is available as a GitHub Pages site:
-
-👉 **https://gw-inux.github.io/iNUX-Handbook/**
-
-The content of this repository serves as the source for the online handbook and related documentation. The materials are **living documents** and may be updated over time by the iNUX team and external contributors.
-
-## Contributions and Feedback
+### Contributions and Feedback
 
 Contributions, suggestions, and feedback are welcome. The repository is intended to support reuse, adaptation, and further development of interactive hydrogeology teaching materials within and beyond the iNUX project.
 
-## Acknowledgment
+### Acknowledgment
 
 This repository was created within the ERASMUS+ project **iNUX**.
 
