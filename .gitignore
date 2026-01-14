@@ -1,0 +1,8 @@
+# Jekyll build output
+_site/
+docs/_site/
+
+# Optional (nice to have)
+.bundle/
+.jekyll-cache/
+.sass-cache/
